@@ -8,12 +8,13 @@ const ABOUT_IMG = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAQDAw
 const RESUME_PDF = "/assets/Rucha_Mene_Resume.pdf";
 
 const KB = `RESUME SUMMARY: Use the facts below as Rucha Mene's resume when answering resume-related questions.
+SKILLS ADDITIONS FROM LATEST RESUME: C++, Electron, Playwright, Jira, Gemini API, Semantic Search, Prometheus, Grafana, Bash and PowerShell scripting. Resume summary: final-year CS student (CGPA 8.4/10) with an AI engineering internship shipping 20+ front-end modules and 150+ Playwright tests, 500+ DSA problems solved, and a custom L4/L7 load balancer in Java; seeking SDE roles.
 PERSONAL: Rucha Mene, Software Engineer, Full Stack Developer, AI Engineer. Navi Mumbai, India. menerucha2004@gmail.com. +91-9766598091.
-EDUCATION: B.Tech Computer Science and Engineering, Vellore Institute of Technology Bhopal, graduated June 2026, final CGPA 8.4/10.
-INTERNSHIP: AI Intern at Jai AI HCE Secure Indore, Feb 2026 to June 2026. Engineered secure enterprise LLM application end-to-end. Designed RAG pipeline with vector database retrieval. Integrated OpenAI and Anthropic Claude APIs with production guardrails. Built React.js frontend with real-time streaming. Developed Python FastAPI backend with async workflows, Redis caching, retry logic, structured logging. Deployed cloud-native on AWS with Docker and CI/CD automation serving real enterprise users in production.
+EDUCATION: B.Tech Computer Science and Engineering, Vellore Institute of Technology (VIT Bhopal), Oct 2022 to May 2026, final CGPA 8.4/10.
+INTERNSHIP: AI Software Engineer Intern at Jai AI HCE Secure Pvt Ltd (AI startup), Indore, Feb 2026 to Aug 2026. Delivered LLM-powered features (a chat interface and semantic search UI) for a secure enterprise AI assistant, giving employees natural-language access to internal knowledge. Engineered 20+ front-end modules using React.js, TypeScript and Electron, including secure authentication and REST API integrations with existing backend services. Automated environment setup, process management and result checks with Bash and PowerShell scripts alongside Playwright across VMware-based CentOS, Rocky Linux and Ubuntu environments. Maintained Docker-based CI/CD pipelines and authored 150+ Playwright end-to-end tests to catch regressions before releases. Collaborated with backend and product teams to ship features from requirements, tracking incidents and defects in Jira.
 SKILLS: Languages: Python, Java, JavaScript ES6+, TypeScript, Go Golang, SQL, Bash Shell. AI and LLM: OpenAI API, Anthropic Claude API, LLM workflows, RAG pipelines, Vector DB, Embeddings, Prompt Engineering, XGBoost, FinBERT, NLP, Transformers HuggingFace, GenAI. Backend: FastAPI, Flask, Django, Spring Boot, Node.js, Express.js, REST APIs, GraphQL, Microservices, OOP, SOLID, System Design. Frontend: React.js, Next.js, Vue.js, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, WebSockets. Databases: PostgreSQL, MySQL, MongoDB, Redis, Snowflake, SQLite, SQLAlchemy, Prisma. Cloud and DevOps: AWS EC2 S3 Lambda CloudWatch, GCP, Azure, Docker, Kubernetes, Terraform, Apache Airflow, GitHub Actions, Jenkins, Git, Linux. Data Engineering: ETL ELT pipelines, DBT, PySpark, Pandas, NumPy, data quality validation, pipeline observability.
-PROJECTS: StockSentry - AI Fintech Platform, Python FastAPI React.js TypeScript PostgreSQL Snowflake Redis XGBoost FinBERT HuggingFace OpenAI API Apache Airflow AWS Docker Kubernetes Terraform CI/CD, 87% ML accuracy under 200ms API response 50K+ records 80% reduction in manual processing zero incidents post-deployment, GitHub github.com/menerucha/Stocksentry_AI. SafeHer - Distributed Safety System, Python Node.js Java Spring Boot React.js PostgreSQL MongoDB Redis RabbitMQ JWT AWS Docker Kubernetes CI/CD, 99% uptime zero security incidents under 2s response, Live safeher-website.vercel.app. All About Coding - Full Stack SaaS, React.js Next.js TypeScript Node.js Python FastAPI MySQL MongoDB OpenAI API RAG Docker AWS CI/CD, 35% content delivery improvement 30% fewer data errors zero rollbacks, Live dsawebsite-kappa.vercel.app. Fraud Detection System - 95% accuracy GAN synthetic data Kafka real-time pipeline Python Scikit-learn Flask. AI Chatbot Platform - RAG pipeline vector DB semantic search streaming Next.js OpenAI LangChain Pinecone. E-Commerce at Scale - Kubernetes microservices AWS Docker GCP load balancing fault tolerance.
-ACHIEVEMENTS: GirlScript Summer of Code GSSoC 2024 - merged 10+ PRs across Python JavaScript backend repositories. LeetCode 500+ DSA problems Contest Rating 1454. Hackathon Finalist - 95% fraud detection accuracy. Event Lead - 5+ events 5000+ participants. Oracle Data Platform 2025 Foundations Associate certification. Database Structures and Management with MySQL Coursera certification. Amazon Hackathon Round 3. Woodpecker Hackathon Round 2 selected. Google Girl Hackathon. AMEX Hackathon.
+PROJECTS: StockSentry - AI Fintech Platform, Python FastAPI React.js TypeScript PostgreSQL Snowflake Redis XGBoost FinBERT HuggingFace OpenAI API Apache Airflow AWS Docker Kubernetes Terraform CI/CD, 87% ML accuracy under 200ms API response 50K+ records 80% reduction in manual processing zero incidents post-deployment, GitHub github.com/menerucha/Stocksentry_AI. SafeHer - Distributed Safety System, Python Node.js Java Spring Boot React.js PostgreSQL MongoDB Redis RabbitMQ JWT AWS Docker Kubernetes CI/CD, 99% uptime zero security incidents under 2s response, Live safeher-website.vercel.app. All About Coding - Full Stack SaaS, React.js Next.js TypeScript Node.js Python FastAPI MySQL MongoDB OpenAI API RAG Docker AWS CI/CD, 35% content delivery improvement 30% fewer data errors zero rollbacks, Live dsawebsite-kappa.vercel.app. Fraud Detection System - 95% accuracy GAN synthetic data Kafka real-time pipeline Python Scikit-learn Flask. AI Chatbot Platform - RAG pipeline vector DB semantic search streaming Next.js OpenAI LangChain Pinecone. E-Commerce at Scale - Kubernetes microservices AWS Docker GCP load balancing fault tolerance. Career Coach - AI career guidance with five workflows (resume feedback, skill-gap analysis, career roadmaps, interview prep, interview-answer feedback), React Vite Tailwind Clerk Node Express OpenAI Supabase, GitHub github.com/menerucha/Career-Coach. Crypto Tracker - full-stack tracker for 100+ coins with live prices, converter, charts, SMA EMA RSI MACD indicators, statistical forecasting, React Node Express MongoDB CoinGecko Docker, GitHub github.com/menerucha/crypto-tracker. Java Distributed Load Balancer - from-scratch L4/L7 load balancer in pure Java 21 with virtual threads, four routing algorithms, token bucket rate limiter, health checks, Prometheus and Grafana, GitHub github.com/menerucha/java-distributed-load-balancer.
+ACHIEVEMENTS: Hackathon Winner - won a college-level coding hackathon by turning an idea into a working prototype. GirlScript Summer of Code GSSoC 2024 - merged 10+ PRs across Python JavaScript backend repositories. LeetCode 500+ DSA problems Contest Rating 1454. Hackathon Finalist - 95% fraud detection accuracy. Event Lead - 5+ events 5000+ participants. Oracle Data Platform 2025 Foundations Associate certification. Database Structures and Management with MySQL Coursera certification. Amazon Hackathon Round 3. Woodpecker Hackathon Round 2 selected. Google Girl Hackathon. AMEX Hackathon.
 LEADERSHIP: Marathi Club Event Management Lead - led 5+ events with 5000+ participants, cross-functional leadership. D2 Igniters Club member. Open Source Club Event Lead.
 CONTACT: menerucha2004@gmail.com, linkedin.com/in/ruchamene, github.com/menerucha, +91-9766598091, Navi Mumbai India.
 STRENGTHS: End-to-end full-stack ownership, AI and LLM engineering, distributed systems, cloud-native deployment, data engineering, open source contribution, strong DSA fundamentals LeetCode 500+, production-grade engineering.`;
@@ -24,19 +25,22 @@ const ROLES = ["Software Engineer","Full Stack Developer","AI Engineer","Problem
 const CHIPS = ["Who is Rucha Mene?","What is her background?","What kind of work does she do?","Why should we know her?","What makes her different?","What are her strengths?"];
 
 const SKILLS_MAP = {
-  "AI & LLM":{ color:"#0d9488", items:["OpenAI API","Anthropic Claude API","RAG Pipelines","Vector DB","Embeddings","Prompt Engineering","FinBERT","XGBoost","HuggingFace Transformers","NLP","LLM Workflows","GenAI Applications"] },
+  "AI & LLM":{ color:"#0d9488", items:["OpenAI API","Anthropic Claude API","RAG Pipelines","Vector DB","Embeddings","Prompt Engineering","Semantic Search","Gemini API","FinBERT","XGBoost","HuggingFace Transformers","NLP","LLM Workflows","GenAI Applications"] },
   "Backend":{ color:"#0284c7", items:["FastAPI","Flask","Django","Spring Boot","Node.js","Express.js","REST APIs","GraphQL","Microservices","OOP","SOLID","System Design","Async/Await"] },
-  "Frontend":{ color:"#6366f1", items:["React.js","Next.js","Vue.js","TypeScript","Tailwind CSS","Material UI","Bootstrap","WebSockets","HTML5","CSS3"] },
+  "Frontend":{ color:"#6366f1", items:["React.js","Next.js","Vue.js","Electron","TypeScript","Tailwind CSS","Material UI","Bootstrap","WebSockets","HTML5","CSS3"] },
   "Databases":{ color:"#f97316", items:["PostgreSQL","MySQL","MongoDB","Redis","Snowflake","SQLite","SQLAlchemy","Prisma"] },
-  "Cloud & DevOps":{ color:"#8b5cf6", items:["AWS (EC2/S3/Lambda)","GCP","Azure","Docker","Kubernetes","Terraform","Apache Airflow","GitHub Actions","Jenkins","CI/CD","Linux"] },
+  "Cloud & DevOps":{ color:"#8b5cf6", items:["AWS (EC2/S3/Lambda)","GCP","Azure","Docker","Kubernetes","Terraform","Apache Airflow","GitHub Actions","Jenkins","CI/CD","Linux","Prometheus","Grafana","Playwright"] },
   "Data Engineering":{ color:"#ec4899", items:["ETL/ELT Pipelines","DBT","PySpark","Pandas","NumPy","Apache Kafka","Data Validation","Pipeline Observability"] },
-  "Languages":{ color:"#14b8a6", items:["Python","JavaScript (ES6+)","TypeScript","Java","Go (Golang)","SQL","Bash/Shell"] },
+  "Languages":{ color:"#14b8a6", items:["Python","JavaScript (ES6+)","TypeScript","Java","C++","Go (Golang)","SQL","Bash/Shell"] },
 };
 
 const PROJECTS = [
   { name:"StockSentry", subtitle:"AI Fintech · MLOps · Data Engineering", desc:"Production-grade AI platform — FastAPI backend with Redis caching, XGBoost + FinBERT ML inference, React.js/TypeScript dashboard, PostgreSQL + Snowflake data layer, Terraform on AWS Kubernetes with Apache Airflow orchestration.", tech:["Python","FastAPI","React.js","XGBoost","FinBERT","PostgreSQL","Snowflake","Redis","AWS","Kubernetes","Terraform"], stats:"87% accuracy · <200ms", live:false, github:"https://github.com/menerucha/Stocksentry_AI" },
   { name:"SafeHer", subtitle:"Distributed Systems · Security · Cloud", desc:"Production distributed system with microservices in Python, Node.js, and Java Spring Boot. JWT/RBAC security, RabbitMQ async messaging, AWS Kubernetes deployment with CloudWatch observability.", tech:["Python","Spring Boot","Node.js","React.js","PostgreSQL","MongoDB","Redis","RabbitMQ","JWT","AWS","Docker"], stats:"99% uptime · 6 months", live:true, liveUrl:"https://safeher-website.vercel.app/", github:"https://github.com/menerucha" },
   { name:"All About Coding", subtitle:"Full Stack SaaS · AI Integration", desc:"Full-stack SaaS platform with React.js/Next.js frontend, Node.js + Python FastAPI backends, MySQL/MongoDB data layer, OpenAI API integration, RAG pipeline, and GitHub Actions CI/CD with zero production rollbacks.", tech:["React.js","Next.js","TypeScript","FastAPI","Node.js","MySQL","MongoDB","OpenAI API","Docker","AWS"], stats:"35% perf improvement", live:true, liveUrl:"https://dsawebsite-kappa.vercel.app/", github:"https://github.com/menerucha" },
+  { name:"Career Coach", subtitle:"AI · Full Stack · Auth & Security", desc:"AI career guidance with five workflows: resume feedback, skill-gap analysis, roadmaps, interview prep and answer feedback, across six situation presets. The Express API verifies Clerk tokens, enforces per-user quotas and validates OpenAI structured JSON before saving to Supabase.", tech:["React","Node.js","Express","OpenAI API","Clerk","Supabase","PostgreSQL","Tailwind CSS"], stats:"5 AI workflows", live:false, github:"https://github.com/menerucha/Career-Coach" },
+  { name:"Crypto Tracker", subtitle:"Full Stack · Market Data · Forecasting", desc:"Tracks 100+ cryptocurrencies with live prices, currency conversion, historical charts, technical indicators (SMA, EMA, RSI, MACD) and statistical forecasts with uncertainty bands. TTL caching, request coalescing, retries and a MongoDB stale-data fallback keep it resilient to CoinGecko rate limits.", tech:["React","Vite","Node.js","Express","MongoDB","CoinGecko API","Docker","Nginx"], stats:"100+ coins · live data", live:false, github:"https://github.com/menerucha/crypto-tracker" },
+  { name:"Java Load Balancer", subtitle:"Distributed Systems · Networking · Java 21", desc:"From-scratch L4 (TCP) and L7 (HTTP) load balancer in pure Java 21 with raw sockets, virtual threads and zero dependencies. Four pluggable routing algorithms, per-client token bucket rate limiting, active health checks with failover, Prometheus metrics and a Grafana dashboard.", tech:["Java 21","Virtual Threads","TCP/HTTP Sockets","Prometheus","Grafana","Docker"], stats:"4 algorithms · L4 + L7", live:false, github:"https://github.com/menerucha/java-distributed-load-balancer" },
   { name:"Fraud Detection System", subtitle:"ML · Security · Real-time Pipelines", desc:"Credit card fraud detection using GAN-generated synthetic training data, Apache Kafka real-time streaming pipeline, and Python ML stack. Built end-to-end from architecture through production deployment.", tech:["Python","Scikit-learn","Apache Kafka","GANs","Flask","Pandas","NumPy"], stats:"95% accuracy", live:false, github:"https://github.com/menerucha" },
   { name:"AI Chatbot Platform", subtitle:"GenAI · RAG · LLM Engineering", desc:"Conversational AI platform with full RAG pipeline, vector database semantic search, context retention, OpenAI and Anthropic API integration, and real-time streaming responses.", tech:["Next.js","OpenAI API","Anthropic API","LangChain","Pinecone","FastAPI","Python"], stats:"RAG + Streaming", live:false, github:"https://github.com/menerucha" },
   { name:"E-Commerce at Scale", subtitle:"Cloud · Microservices · DevOps", desc:"Amazon-scale e-commerce with full microservices decomposition, Kubernetes orchestration, Terraform IaC, load balancing, fault tolerance, and CI/CD automation on AWS and GCP.", tech:["Docker","Kubernetes","AWS","GCP","Terraform","Node.js","CI/CD"], stats:"K8s orchestrated", live:false, github:"https://github.com/menerucha" },
@@ -88,7 +92,7 @@ const getFollowups = (lastMsg, messageCount) => {
 
 function StockIcon() {
   return (
-    <svg viewBox="0 0 320 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
       <rect width="320" height="160" fill="#0f172a"/>
       <defs>
         <linearGradient id="sg1" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -117,7 +121,7 @@ function StockIcon() {
 
 function SafeHerIcon() {
   return (
-    <svg viewBox="0 0 320 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
       <rect width="320" height="160" fill="#0f0a1e"/>
       <defs>
         <radialGradient id="mg" cx="50%" cy="55%" r="40%">
@@ -164,7 +168,7 @@ function SafeHerIcon() {
 
 function CodingIcon() {
   return (
-    <svg viewBox="0 0 320 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
       <rect width="320" height="160" fill="#0d1117"/>
       <rect x="10" y="10" width="185" height="140" rx="6" fill="#161b22" stroke="#30363d" strokeWidth="1"/>
       <circle cx="24" cy="22" r="4" fill="#ff5f57"/>
@@ -210,7 +214,7 @@ function CodingIcon() {
 
 function FraudIcon() {
   return (
-    <svg viewBox="0 0 320 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
       <rect width="320" height="160" fill="#0a0a0f"/>
       <circle cx="40" cy="30" r="8" fill="#0d121f" stroke="#0d9488" strokeWidth="1.5"/>
       <text x="40" y="34" textAnchor="middle" fontSize="6" fill="#5eead4" fontFamily="monospace">amt</text>
@@ -256,7 +260,7 @@ function FraudIcon() {
 
 function ChatIcon() {
   return (
-    <svg viewBox="0 0 320 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
       <rect width="320" height="160" fill="#f8fafc"/>
       <rect x="140" y="12" width="158" height="30" rx="15" fill="#0d9488"/>
       <text x="219" y="31" textAnchor="middle" fontSize="9" fill="#fff" fontFamily="Inter,sans-serif">How does RAG work?</text>
@@ -283,7 +287,7 @@ function ChatIcon() {
 
 function CloudIcon() {
   return (
-    <svg viewBox="0 0 320 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
       <rect width="320" height="160" fill="#0f172a"/>
       <polygon points="80,19 106,34 106,64 80,79 54,64 54,34" fill="#0d948818" stroke="#0d9488" strokeWidth="1.5"/>
       <circle cx="80" cy="49" r="10" fill="#0d948830" stroke="#0d9488" strokeWidth="1"/>
@@ -342,14 +346,113 @@ function CloudIcon() {
   );
 }
 
+
+function CareerCoachIcon() {
+  const gaps = [["React", 86, "#0d9488"], ["SQL", 70, "#0d9488"], ["System design", 44, "#f97316"], ["Leadership", 28, "#f97316"]];
+  return (
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+      <rect width="320" height="160" fill="#0b1324"/>
+      <rect x="16" y="20" width="92" height="124" rx="8" fill="#ffffff"/>
+      <rect x="26" y="32" width="36" height="6" rx="3" fill="#0f172a"/>
+      <rect x="26" y="46" width="72" height="3" rx="1.5" fill="#cbd5e1"/>
+      <rect x="26" y="54" width="60" height="3" rx="1.5" fill="#cbd5e1"/>
+      <rect x="26" y="68" width="72" height="3" rx="1.5" fill="#0d9488" opacity="0.75"/>
+      <rect x="26" y="76" width="52" height="3" rx="1.5" fill="#cbd5e1"/>
+      <rect x="26" y="90" width="72" height="3" rx="1.5" fill="#f97316" opacity="0.75"/>
+      <rect x="26" y="98" width="64" height="3" rx="1.5" fill="#cbd5e1"/>
+      <rect x="26" y="112" width="70" height="3" rx="1.5" fill="#cbd5e1"/>
+      <rect x="26" y="120" width="44" height="3" rx="1.5" fill="#cbd5e1"/>
+      <circle cx="100" cy="26" r="11" fill="#0d9488" stroke="#0b1324" strokeWidth="2"/>
+      <path d="M95 26 L99 30 L106 22" stroke="#fff" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"/>
+      <path d="M116 82 L136 82" stroke="#0d9488" strokeWidth="2" strokeLinecap="round"/>
+      <path d="M131 76 L137 82 L131 88" stroke="#0d9488" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"/>
+      <rect x="146" y="20" width="158" height="124" rx="8" fill="#111c33" stroke="#1e293b"/>
+      <text x="158" y="38" fontSize="8" fill="#0d9488" fontFamily="Inter,sans-serif" fontWeight="700">SKILL GAP ANALYSIS</text>
+      {gaps.map(([label, w, c], i) => (
+        <g key={label}>
+          <text x="158" y={56 + i * 20} fontSize="7.5" fill="#94a3b8" fontFamily="Inter,sans-serif">{label}</text>
+          <rect x="158" y={60 + i * 20} width="134" height="5" rx="2.5" fill="#1e293b"/>
+          <rect x="158" y={60 + i * 20} width={(134 * w) / 100} height="5" rx="2.5" fill={c}/>
+        </g>
+      ))}
+      <rect x="158" y="128" width="64" height="12" rx="6" fill="#0d948822"/>
+      <text x="190" y="137" textAnchor="middle" fontSize="7" fill="#0d9488" fontFamily="Inter,sans-serif" fontWeight="700">ROADMAP</text>
+    </svg>
+  );
+}
+
+function CryptoIcon() {
+  const candles = [[36,110,100,114,96],[60,100,106,110,98],[84,106,92,108,90],[108,92,84,95,80],[132,84,90,92,82],[156,90,72,92,70],[180,72,64,76,60],[204,64,58,66,54]];
+  return (
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+      <rect width="320" height="160" fill="#0a0f1c"/>
+      {[40, 70, 100, 130].map(y => <line key={y} x1="16" y1={y} x2="304" y2={y} stroke="#1e293b" strokeWidth="1"/>)}
+      <polygon points="204,60 304,24 304,66 204,66" fill="#f97316" opacity="0.14"/>
+      {candles.map(([x, o, c, h, l]) => {
+        const up = c < o;
+        const col = up ? "#22c55e" : "#ef4444";
+        return (
+          <g key={x}>
+            <line x1={x} y1={h} x2={x} y2={l} stroke={col} strokeWidth="1.5"/>
+            <rect x={x - 5} y={Math.min(o, c)} width="10" height={Math.max(Math.abs(o - c), 2)} rx="1.5" fill={col}/>
+          </g>
+        );
+      })}
+      <polyline points="36,104 60,102 84,98 108,92 132,89 156,84 180,76 204,68" fill="none" stroke="#0d9488" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+      <path d="M204 62 L304 40" fill="none" stroke="#f97316" strokeWidth="2" strokeDasharray="5,3" strokeLinecap="round"/>
+      <rect x="10" y="8" width="64" height="16" rx="8" fill="#ffffff10"/>
+      <text x="42" y="19" textAnchor="middle" fontSize="8.5" fill="#e2e8f0" fontFamily="Inter,sans-serif" fontWeight="700">BTC / USD</text>
+      <circle cx="262" cy="16" r="3" fill="#22c55e"/>
+      <text x="270" y="19" fontSize="8" fill="#22c55e" fontFamily="Inter,sans-serif" fontWeight="700">LIVE</text>
+      <text x="16" y="152" fontSize="8" fill="#64748b" fontFamily="Inter,sans-serif">SMA · EMA · RSI · MACD</text>
+      <text x="304" y="152" textAnchor="end" fontSize="8" fill="#f97316" fontFamily="Inter,sans-serif" fontWeight="600">forecast band</text>
+    </svg>
+  );
+}
+
+function LoadBalancerIcon() {
+  const backends = [[26, 3], [52, 2], [78, 1], [104, 1], [130, 1]];
+  return (
+    <svg viewBox="0 0 320 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+      <rect width="320" height="160" fill="#0b1220"/>
+      {[45, 80, 115].map(y => (
+        <g key={y}>
+          <line x1="40" y1={y} x2="84" y2="80" stroke="#0d9488" strokeWidth="1" opacity="0.5"/>
+          <circle cx="30" cy={y} r="9" fill="#0f172a" stroke="#818cf8" strokeWidth="1.5"/>
+          <text x="30" y={y + 3} textAnchor="middle" fontSize="6.5" fill="#a5b4fc" fontFamily="monospace">req</text>
+        </g>
+      ))}
+      <polygon points="110,52 134,66 134,94 110,108 86,94 86,66" fill="#0d948820" stroke="#0d9488" strokeWidth="2"/>
+      <text x="110" y="84" textAnchor="middle" fontSize="11" fill="#5eead4" fontFamily="Inter,sans-serif" fontWeight="800">LB</text>
+      <text x="110" y="124" textAnchor="middle" fontSize="7" fill="#64748b" fontFamily="Inter,sans-serif">rate limiter</text>
+      {backends.map(([y, w]) => (
+        <g key={y}>
+          <line x1="134" y1="80" x2="222" y2={y} stroke="#0d9488" strokeWidth="1" opacity="0.45"/>
+          <rect x="222" y={y - 10} width="84" height="20" rx="5" fill="#111c33" stroke="#1e293b"/>
+          <rect x="228" y={y + 3} width={w * 18} height="3" rx="1.5" fill="#0d9488"/>
+          <text x="228" y={y - 2} fontSize="7" fill="#94a3b8" fontFamily="monospace">{"backend-" + (backends.findIndex(b => b[0] === y) + 1)}</text>
+        </g>
+      ))}
+      <rect x="8" y="6" width="50" height="14" rx="7" fill="#0d948822"/>
+      <text x="33" y="16" textAnchor="middle" fontSize="7.5" fill="#0d9488" fontFamily="Inter,sans-serif" fontWeight="700">L4 / L7</text>
+      <text x="16" y="152" fontSize="8" fill="#64748b" fontFamily="Inter,sans-serif">RR · WRR · LC · CH</text>
+    </svg>
+  );
+}
+
 const PROJECT_ICONS = {
   "StockSentry": StockIcon,
   "SafeHer": SafeHerIcon,
   "All About Coding": CodingIcon,
+  "Career Coach": CareerCoachIcon,
+  "Crypto Tracker": CryptoIcon,
+  "Java Load Balancer": LoadBalancerIcon,
   "Fraud Detection System": FraudIcon,
   "AI Chatbot Platform": ChatIcon,
   "E-Commerce at Scale": CloudIcon,
 };
+
+const NAV = ["home","about","skills","experience","projects","contact"];
 
 export default function Portfolio() {
   const [active, setActive] = useState("home");
@@ -363,6 +466,7 @@ export default function Portfolio() {
   const [fadeRole, setFadeRole] = useState(true);
   const [activeSkill, setActiveSkill] = useState("AI & LLM");
   const [dark, setDark] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
   const [visibleSection, setVisibleSection] = useState("home");
   const endRef = useRef(null);
 
@@ -439,6 +543,7 @@ export default function Portfolio() {
 
   const scrollTo = (id) => {
     setActive(id);
+    setMenuOpen(false);
     document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
   };
 
@@ -484,7 +589,7 @@ export default function Portfolio() {
   const followupChips = getFollowups(lastAssistantMessage, msgs.length);
 
   return (
-    <div className="theme-anim" style={{ fontFamily: "'Inter',-apple-system,BlinkMacSystemFont,sans-serif", background: t.bg, color: t.text, minHeight: "100vh", overflowX: "hidden", transition: "background .25s, color .25s" }}>
+    <div className="theme-anim" style={{ fontFamily: "'Inter',-apple-system,BlinkMacSystemFont,sans-serif", background: t.bg, color: t.text, minHeight: "100vh", overflowX: "hidden", transition: "background .25s, color .25s", "--sbg": t.btnStrokeBg, "--sfg": t.btnStrokeColor, "--sbd": t.btnStrokeBorder }}>
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -525,11 +630,59 @@ export default function Portfolio() {
         @keyframes fadeUp { from{opacity:0;transform:translateY(20px)} to{opacity:1;transform:translateY(0)} }
         .fade-up { animation: fadeUp .6s ease forwards; }
         .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; }
-        @media(max-width:768px) { .two-col { grid-template-columns: 1fr !important; } }
+        .btn-stroke { background: var(--sbg); color: var(--sfg); border: 1.5px solid var(--sbd); border-radius: 10px; font-weight: 600; cursor: pointer; font-family: inherit; display: inline-flex; align-items: center; transition: all .2s; }
+        .btn-stroke:hover { border-color: #0d9488; color: #0d9488; }
+        .chip { padding: 7px 14px; border: 1px solid; border-radius: 20px; font-size: 12px; cursor: pointer; font-family: inherit; transition: all .2s; }
+        .nav-burger, .mobile-menu { display: none; }
+        .chat-wrap { display: flex; flex-direction: column; align-items: flex-end; }
+        .hero-stats { display: flex; }
+        @media(max-width:1180px) { .nav-extra { display: none !important; } }
+        @media(max-width:1024px) {
+          .project-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .skill-grid { grid-template-columns: repeat(4, 1fr) !important; }
+          .cert-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .two-col { gap: 48px; }
+        }
+        @media(max-width:980px) {
+          .site-nav { padding: 0 20px !important; }
+          .nav-links { display: none !important; }
+          .nav-burger { display: inline-flex !important; }
+          .mobile-menu { display: flex; }
+        }
+        @media(max-width:900px) {
+          .two-col { grid-template-columns: 1fr !important; gap: 48px; }
+          .hero { min-height: auto !important; padding-top: 104px !important; padding-bottom: 72px; }
+          .scroll-ind { display: none !important; }
+          .hero-visual { padding: 0 16px 16px 0; }
+          .hero-badge-r { right: 8px !important; }
+          .hero-badge-l { left: 8px !important; }
+          .about-visual { padding: 0 20px 20px 0; }
+          .proj-hint { text-align: left !important; max-width: none !important; }
+        }
+        @media(max-width:768px) {
+          .section { padding: 64px 0; }
+          .container { padding: 0 20px; }
+          .skill-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .skill-panel { padding: 20px !important; }
+          .contact-card { padding: 36px 22px !important; }
+          .footer-row { flex-direction: column !important; gap: 14px !important; padding: 24px 20px !important; text-align: center; }
+          .footer-row > div { flex-wrap: wrap; justify-content: center; }
+        }
+        @media(max-width:640px) {
+          .project-grid, .cert-grid { grid-template-columns: 1fr !important; }
+          .hero-stats { display: grid !important; grid-template-columns: 1fr 1fr; gap: 24px 16px !important; }
+          .hero-stat { padding: 0 !important; margin: 0 !important; border: none !important; }
+          .about-cards { grid-template-columns: 1fr !important; }
+          .chat-wrap { bottom: 16px !important; right: 12px !important; }
+          .chat-wrap.open .fab { display: none; }
+          .chat-panel { width: min(94vw, 420px) !important; height: min(80dvh, 640px) !important; }
+          .chat-panel input { font-size: 16px !important; }
+        }
+        @media(max-width:380px) { .skill-grid { grid-template-columns: 1fr 1fr !important; } .btn-teal { padding: 12px 20px; } }
       `}</style>
 
       {/* NAV */}
-      <nav style={{ position:"fixed", top:0, left:0, right:0, zIndex:100, background:t.navBg, backdropFilter:"blur(16px)", borderBottom:"1px solid "+t.navBorder, height:60, display:"flex", alignItems:"center", padding:"0 40px", justifyContent:"space-between", transition:"background .25s, border-color .25s" }}>
+      <nav className="site-nav" style={{ position:"fixed", top:0, left:0, right:0, zIndex:100, background:t.navBg, backdropFilter:"blur(16px)", borderBottom:"1px solid "+t.navBorder, height:60, display:"flex", alignItems:"center", padding:"0 40px", justifyContent:"space-between", transition:"background .25s, border-color .25s" }}>
         <div style={{ display:"flex", alignItems:"center", gap:10 }}>
           <img
             src={dark ? "/assets/logo_dark_theme.png" : "/assets/logo_ligth_theme.png"}
@@ -539,8 +692,8 @@ export default function Portfolio() {
           />
           <span style={{ fontWeight:700, fontSize:15, letterSpacing:"-.02em", fontFamily:"Space Grotesk,sans-serif", color:t.text }}>Rucha Mene</span>
         </div>
-        <div style={{ display:"flex", gap:4 }}>
-          {["home","about","skills","experience","projects","contact"].map(s => (
+        <div className="nav-links" style={{ display:"flex", gap:4 }}>
+          {NAV.map(s => (
             <a key={s} onClick={(e) => { e.preventDefault(); scrollTo(s); }} href="#"
               style={{ fontSize:13, fontWeight:500, cursor:"pointer", padding:"6px 14px", borderRadius:20, transition:"all .2s", textDecoration:"none", border:"1px solid transparent", textTransform:"capitalize", color: active===s ? "#0d9488" : t.textMuted, background: active===s ? (dark?"rgba(13,148,136,.15)":"#f0fdfa") : "transparent", borderColor: active===s ? "#99f6e4" : "transparent" }}
               onMouseEnter={e=>{ if(active!==s){ e.currentTarget.style.color=t.text; e.currentTarget.style.background=t.surface; }}}
@@ -557,19 +710,40 @@ export default function Portfolio() {
             onMouseLeave={e => e.currentTarget.style.borderColor=t.border}>
             {dark ? "☀️" : "🌙"}
           </button>
-          <a href="https://github.com/menerucha" target="_blank" rel="noreferrer" style={{ color:t.textMuted, display:"flex", padding:"6px", transition:"color .15s" }} onMouseEnter={e => e.currentTarget.style.color = t.text} onMouseLeave={e => e.currentTarget.style.color = t.textMuted}>
+          <a className="nav-extra" href="https://github.com/menerucha" target="_blank" rel="noreferrer" style={{ color:t.textMuted, display:"flex", padding:"6px", transition:"color .15s" }} onMouseEnter={e => e.currentTarget.style.color = t.text} onMouseLeave={e => e.currentTarget.style.color = t.textMuted}>
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.929.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/></svg>
           </a>
-          <a href="https://www.linkedin.com/in/ruchamene/" target="_blank" rel="noreferrer" style={{ color:t.textMuted, display:"flex", padding:"6px", transition:"color .15s" }} onMouseEnter={e => e.currentTarget.style.color = "#0a66c2"} onMouseLeave={e => e.currentTarget.style.color = t.textMuted}>
+          <a className="nav-extra" href="https://www.linkedin.com/in/ruchamene/" target="_blank" rel="noreferrer" style={{ color:t.textMuted, display:"flex", padding:"6px", transition:"color .15s" }} onMouseEnter={e => e.currentTarget.style.color = "#0a66c2"} onMouseLeave={e => e.currentTarget.style.color = t.textMuted}>
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
           </a>
-          <a href={RESUME_PDF} download="Rucha_Mene_Resume.pdf" className="btn-stroke" style={{ padding:"8px 16px", fontSize:13, textDecoration:"none" }}>Resume</a>
+          <a href={RESUME_PDF} download="Rucha_Mene_Resume.pdf" className="btn-stroke nav-extra" style={{ padding:"8px 16px", fontSize:13, textDecoration:"none" }}>Resume</a>
           <button className="btn-teal" style={{ padding:"8px 18px", fontSize:13 }} onClick={() => setChatOpen(o => !o)}>&#10022; AI Chat</button>
+          <button className="nav-burger" onClick={() => setMenuOpen(o => !o)} aria-label="Toggle menu" aria-expanded={menuOpen}
+            style={{ width:38, height:38, borderRadius:10, border:"1.5px solid "+t.border, background:t.surface, cursor:"pointer", alignItems:"center", justifyContent:"center", color:t.text }}>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round">
+              {menuOpen ? <><line x1="5" y1="5" x2="19" y2="19"/><line x1="19" y1="5" x2="5" y2="19"/></> : <><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></>}
+            </svg>
+          </button>
         </div>
       </nav>
 
+      
+      {menuOpen && (
+        <div className="mobile-menu" style={{ position:"fixed", top:60, left:0, right:0, zIndex:99, flexDirection:"column", gap:4, padding:"12px 20px 20px", background:t.navBg, backdropFilter:"blur(16px)", WebkitBackdropFilter:"blur(16px)", borderBottom:"1px solid "+t.navBorder, boxShadow:"0 16px 32px rgba(0,0,0,.08)" }}>
+          {NAV.map(s => (
+            <a key={s} href="#" onClick={(e) => { e.preventDefault(); scrollTo(s); }}
+              style={{ padding:"12px 14px", borderRadius:10, fontSize:15, fontWeight:600, textDecoration:"none", textTransform:"capitalize", color: active===s ? "#0d9488" : t.text, background: active===s ? (dark?"rgba(13,148,136,.15)":"#f0fdfa") : "transparent" }}>{s}</a>
+          ))}
+          <div style={{ display:"flex", gap:10, flexWrap:"wrap", marginTop:8, paddingTop:14, borderTop:"1px solid "+t.borderLight }}>
+            <a href={RESUME_PDF} download="Rucha_Mene_Resume.pdf" className="btn-stroke" style={{ padding:"9px 16px", fontSize:13, textDecoration:"none" }}>Resume</a>
+            <a href="https://github.com/menerucha" target="_blank" rel="noreferrer" className="btn-stroke" style={{ padding:"9px 16px", fontSize:13, textDecoration:"none" }}>GitHub</a>
+            <a href="https://www.linkedin.com/in/ruchamene/" target="_blank" rel="noreferrer" className="btn-stroke" style={{ padding:"9px 16px", fontSize:13, textDecoration:"none" }}>LinkedIn</a>
+          </div>
+        </div>
+      )}
+
       {/* HERO */}
-      <section id="home" style={{ minHeight:"100vh", display:"flex", alignItems:"center", paddingTop:60, position:"relative", overflow:"hidden", background:t.bg, transition:"background .25s" }}>
+      <section id="home" className="hero" style={{ minHeight:"100vh", display:"flex", alignItems:"center", paddingTop:60, position:"relative", overflow:"hidden", background:t.bg, transition:"background .25s" }}>
         <div style={{ position:"absolute", top:0, right:0, width:600, height:600, background:"radial-gradient(circle at 80% 20%, "+t.heroGrad1+" 0%, transparent 65%)", pointerEvents:"none" }}/>
         <div style={{ position:"absolute", bottom:0, left:0, width:400, height:400, background:"radial-gradient(circle at 20% 80%, "+t.heroGrad2+" 0%, transparent 65%)", pointerEvents:"none" }}/>
         <div className="container" style={{ width:"100%" }}>
@@ -599,35 +773,35 @@ export default function Portfolio() {
                   Download CV
                 </a>
               </div>
-              <div style={{ display:"flex", gap:0, borderTop:"1px solid "+t.borderLight, paddingTop:32 }}>
+              <div className="hero-stats" style={{ gap:0, borderTop:"1px solid "+t.borderLight, paddingTop:32 }}>
                 {[["10+","Projects shipped"],["500+","LeetCode problems"],["1","Internship"],["5000+","Event participants"]].map(([n, l], i) => (
-                  <div key={l} style={{ flex:1, paddingRight:i < 3 ? 24 : 0, borderRight:i < 3 ? "1px solid "+t.borderLight : "none", marginRight:i < 3 ? 24 : 0 }}>
+                  <div key={l} className="hero-stat" style={{ flex:1, paddingRight:i < 3 ? 24 : 0, borderRight:i < 3 ? "1px solid "+t.borderLight : "none", marginRight:i < 3 ? 24 : 0 }}>
                     <div className="grotesk" style={{ fontSize:28, fontWeight:700, color:t.statText, letterSpacing:"-.03em" }}>{n}</div>
                     <div style={{ fontSize:11, color:t.textFaint, marginTop:2, fontWeight:500, textTransform:"uppercase", letterSpacing:".04em" }}>{l}</div>
                   </div>
                 ))}
               </div>
             </div>
-            <div style={{ position:"relative", display:"flex", justifyContent:"center" }}>
-              <div style={{ position:"relative", width:420 }}>
+            <div className="hero-visual" style={{ position:"relative", display:"flex", justifyContent:"center" }}>
+              <div style={{ position:"relative", width:"100%", maxWidth:420 }}>
                 <div style={{ position:"absolute", top:16, left:16, width:"100%", height:"100%", border:"2px solid "+t.tealOffsetBorder, borderRadius:24 }}/>
                 <div style={{ borderRadius:22, overflow:"hidden", border:"1.5px solid "+t.border, boxShadow:dark?"0 20px 60px rgba(0,0,0,.4)":"0 20px 60px rgba(0,0,0,.1)" }}>
                   <img src={HERO_IMG} alt="Rucha coding" style={{ width:"100%", display:"block" }}/>
                 </div>
-                <div style={{ position:"absolute", top:28, right:-24, background:t.surface, border:"1.5px solid "+t.border, borderRadius:12, padding:"10px 16px", boxShadow:dark?"0 6px 24px rgba(0,0,0,.4)":"0 6px 24px rgba(0,0,0,.1)", fontSize:13, fontWeight:600, whiteSpace:"nowrap", animation:"float2 3.5s ease-in-out infinite" }}>
+                <div className="hero-badge-r" style={{ position:"absolute", top:28, right:-24, background:t.surface, border:"1.5px solid "+t.border, borderRadius:12, padding:"10px 16px", boxShadow:dark?"0 6px 24px rgba(0,0,0,.4)":"0 6px 24px rgba(0,0,0,.1)", fontSize:13, fontWeight:600, whiteSpace:"nowrap", animation:"float2 3.5s ease-in-out infinite" }}>
                   <span style={{ color:"#0d9488" }}>87%</span> ML Accuracy
                 </div>
-                <div style={{ position:"absolute", bottom:60, left:-24, background:t.surface, border:"1.5px solid "+t.border, borderRadius:12, padding:"10px 16px", boxShadow:dark?"0 6px 24px rgba(0,0,0,.4)":"0 6px 24px rgba(0,0,0,.1)", fontSize:13, fontWeight:600, whiteSpace:"nowrap", animation:"float2 4.2s ease-in-out infinite .5s" }}>
+                <div className="hero-badge-l" style={{ position:"absolute", bottom:60, left:-24, background:t.surface, border:"1.5px solid "+t.border, borderRadius:12, padding:"10px 16px", boxShadow:dark?"0 6px 24px rgba(0,0,0,.4)":"0 6px 24px rgba(0,0,0,.1)", fontSize:13, fontWeight:600, whiteSpace:"nowrap", animation:"float2 4.2s ease-in-out infinite .5s" }}>
                   AI Engineer
                 </div>
-                <div style={{ position:"absolute", top:"42%", left:-32, background:"#0d9488", borderRadius:12, padding:"10px 16px", boxShadow:"0 6px 24px rgba(13,148,136,.35)", fontSize:13, fontWeight:600, color:"#fff", whiteSpace:"nowrap", animation:"float2 3.8s ease-in-out infinite 1s" }}>
+                <div className="hero-badge-l" style={{ position:"absolute", top:"42%", left:-32, background:"#0d9488", borderRadius:12, padding:"10px 16px", boxShadow:"0 6px 24px rgba(13,148,136,.35)", fontSize:13, fontWeight:600, color:"#fff", whiteSpace:"nowrap", animation:"float2 3.8s ease-in-out infinite 1s" }}>
                   Full Stack
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div style={{ position:"absolute", bottom:32, left:"50%", transform:"translateX(-50%)", display:"flex", flexDirection:"column", alignItems:"center", gap:6, cursor:"pointer", opacity:.4 }} onClick={() => scrollTo("about")}>
+        <div className="scroll-ind" style={{ position:"absolute", bottom:32, left:"50%", transform:"translateX(-50%)", display:"flex", flexDirection:"column", alignItems:"center", gap:6, cursor:"pointer", opacity:.4 }} onClick={() => scrollTo("about")}>
           <span style={{ fontSize:11, color:t.textFaint, letterSpacing:".08em", fontWeight:600, textTransform:"uppercase" }}>Scroll</span>
           <div style={{ width:1, height:32, background:t.scrollLine }}/>
         </div>
@@ -639,7 +813,7 @@ export default function Portfolio() {
       <section id="about" className="section" style={{ background:t.bg, transition:"background .25s" }}>
         <div className="container">
           <div className="two-col" style={{ alignItems:"center" }}>
-            <div style={{ position:"relative" }}>
+            <div className="about-visual" style={{ position:"relative" }}>
               <div style={{ position:"absolute", bottom:-20, right:-20, width:"88%", height:"88%", background:t.aboutBlock, borderRadius:20, border:"1px solid "+t.aboutBlockBorder }}/>
               <div style={{ borderRadius:20, overflow:"hidden", border:"1.5px solid "+t.border, boxShadow:dark?"0 16px 50px rgba(0,0,0,.35)":"0 16px 50px rgba(0,0,0,.08)", position:"relative" }}>
                 <img src={ABOUT_IMG} alt="Rucha with coffee" style={{ width:"100%", display:"block" }}/>
@@ -656,12 +830,12 @@ export default function Portfolio() {
               <p style={{ fontSize:15, color:t.textMuted, lineHeight:1.8, marginBottom:32 }}>
                 I care about systems that perform under pressure — sub-200ms APIs, 99% uptime, real-time pipelines. When not coding, I lead events, compete in hackathons, and explore generative AI.
               </p>
-              <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:12 }}>
-                {[{e:"🧠",t:"AI-First",d:"RAG, embeddings and GenAI in production"},{e:"⚡",t:"Performance",d:"Sub-200ms APIs and 99% uptime"},{e:"🏆",t:"Hackathons",d:"Amazon Rd 3 · Google · Woodpecker Rd 2"},{e:"🎯",t:"Accuracy",d:"95% fraud detection · 87% stock prediction"}].map(({ e, t, d }) => (
-                  <div key={t} className="card" style={{ padding:"16px 18px", display:"flex", gap:12, background:t.cardBg, border:"1px solid "+t.cardBorder }}>
+              <div className="about-cards" style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:12 }}>
+                {[{e:"🧠",t:"AI-First",d:"RAG, embeddings and GenAI in production"},{e:"⚡",t:"Performance",d:"Sub-200ms APIs and 99% uptime"},{e:"🏆",t:"Hackathons",d:"Amazon Rd 3 · Google · Woodpecker Rd 2"},{e:"🎯",t:"Accuracy",d:"95% fraud detection · 87% stock prediction"}].map(({ e, t: ttl, d }) => (
+                  <div key={ttl} className="card" style={{ padding:"16px 18px", display:"flex", gap:12, background:t.cardBg, border:"1px solid "+t.cardBorder }}>
                     <span style={{ fontSize:22, flexShrink:0 }}>{e}</span>
                     <div>
-                      <div style={{ fontSize:13, fontWeight:700, color:t.text, marginBottom:3 }}>{t}</div>
+                      <div style={{ fontSize:13, fontWeight:700, color:t.text, marginBottom:3 }}>{ttl}</div>
                       <div style={{ fontSize:12, color:t.textFaint, lineHeight:1.5 }}>{d}</div>
                     </div>
                   </div>
@@ -692,7 +866,7 @@ export default function Portfolio() {
               ))}
             </div>
           </div>
-          <div style={{ background:t.surface, borderRadius:16, border:"1px solid "+t.border, padding:"28px 32px", boxShadow:dark?"0 2px 12px rgba(0,0,0,.2)":"0 2px 12px rgba(0,0,0,.03)" }}>
+          <div className="skill-panel" style={{ background:t.surface, borderRadius:16, border:"1px solid "+t.border, padding:"28px 32px", boxShadow:dark?"0 2px 12px rgba(0,0,0,.2)":"0 2px 12px rgba(0,0,0,.03)" }}>
             <div style={{ display:"flex", alignItems:"center", justifyContent:"space-between", marginBottom:20 }}>
               <span style={{ fontSize:14, fontWeight:700, color:(SKILLS_MAP[activeSkill]||{color:"#0d9488"}).color, fontFamily:"Space Grotesk,sans-serif" }}>{activeSkill}</span>
               <span style={{ fontSize:12, color:t.textFaint }}>{(SKILLS_MAP[activeSkill]||{items:[]}).items.length} skills</span>
@@ -703,7 +877,7 @@ export default function Portfolio() {
               ))}
             </div>
           </div>
-          <div style={{ display:"grid", gridTemplateColumns:"repeat(6,1fr)", gap:12, marginTop:20 }}>
+          <div className="skill-grid" style={{ display:"grid", gridTemplateColumns:"repeat(7,1fr)", gap:12, marginTop:20 }}>
             {Object.entries(SKILLS_MAP).map(([k, v]) => (
               <div key={k} className="card" style={{ padding:"16px 12px", textAlign:"center", cursor:"pointer", background:activeSkill===k?(dark?"rgba(13,148,136,.15)":"#f0fdfa"):t.cardBg, border:"1px solid "+(activeSkill===k?"#99f6e4":t.cardBorder) }} onClick={() => setActiveSkill(k)}>
                 <div style={{ fontSize:11, fontWeight:700, color:activeSkill===k?v.color:t.textFaint, letterSpacing:".03em", textTransform:"uppercase" }}>{k.split(" ")[0]}</div>
@@ -727,6 +901,7 @@ export default function Portfolio() {
             <div style={{ position:"relative", paddingLeft:32 }}>
               <div style={{ position:"absolute", left:7, top:0, bottom:0, width:2, background:"linear-gradient(to bottom, #0d9488, #e2e8f0)" }}/>
               {[
+                { year:"Feb 2026 to Aug 2026", role:"AI Software Engineer Intern", org:"Jai AI HCE Secure Pvt Ltd, Indore", desc:"Delivered LLM-powered chat and semantic search UI for an enterprise AI assistant, built 20+ React/TypeScript/Electron front-end modules, and authored 150+ Playwright end-to-end tests in Docker-based CI/CD." },
                 { year:"2024 to Present", role:"AI and Full Stack Developer", org:"Independent Projects", desc:"Built StockSentry (87% accuracy), SafeHer (99% uptime SOS), Fraud Detection (95% accuracy), and an AI Chatbot with full RAG pipeline." },
                 { year:"2024", role:"Event Management Lead", org:"Marathi Club", desc:"Led end-to-end event planning, team coordination, stakeholder communication, and logistics for college-level cultural events." },
                 { year:"2023 to 2024", role:"Member", org:"D2 Igniters Club", desc:"Active member driving innovation, collaborative projects, and community building across the engineering program." },
@@ -760,7 +935,7 @@ export default function Portfolio() {
               <div style={{ background:"#0f172a", borderRadius:16, padding:"24px", marginBottom:12 }}>
                 <div style={{ fontSize:11, fontWeight:700, color:"#0d9488", letterSpacing:".08em", textTransform:"uppercase", marginBottom:12 }}>Education</div>
                 <div className="grotesk" style={{ fontSize:15, fontWeight:700, color:"#f8fafc", marginBottom:4 }}>B.Tech — Computer Science & Engineering</div>
-                <div style={{ fontSize:13, color:"#0d9488", marginBottom:4, fontWeight:600 }}>VIT Bhopal · June 2022 – June 2026</div>
+                <div style={{ fontSize:13, color:"#0d9488", marginBottom:4, fontWeight:600 }}>VIT Bhopal · Oct 2022 – May 2026</div>
                 <p style={{ fontSize:13, color:"#64748b", lineHeight:1.6 }}>Final CGPA: 8.4/10</p>
               </div>
               <div style={{ background:"#0f172a", borderRadius:16, padding:"24px", marginBottom:12 }}>
@@ -790,7 +965,7 @@ export default function Portfolio() {
           <h2 className="grotesk" style={{ fontSize:"clamp(24px,3vw,36px)", fontWeight:700, letterSpacing:"-.04em", color:t.text, lineHeight:1.1, marginBottom:32 }}>
             Always learning.
           </h2>
-          <div style={{ display:"grid", gridTemplateColumns:"repeat(3,1fr)", gap:12 }}>
+          <div className="cert-grid" style={{ display:"grid", gridTemplateColumns:"repeat(3,1fr)", gap:12 }}>
             {[
               { icon:"🏅", name:"Oracle Data Platform 2025", tag:"Foundations Associate", org:"Oracle", color:"#f97316" },
               { icon:"📊", name:"Database Structures & MySQL", tag:"Certified", org:"Coursera", color:"#0d9488" },
@@ -824,17 +999,17 @@ export default function Portfolio() {
                 Things I have shipped.
               </h2>
             </div>
-            <p style={{ fontSize:13, color:t.textFaint, maxWidth:240, textAlign:"right", lineHeight:1.6 }}>Click any card to ask the AI for deep details.</p>
+            <p className="proj-hint" style={{ fontSize:13, color:t.textFaint, maxWidth:240, textAlign:"right", lineHeight:1.6 }}>Click any card to ask the AI for deep details.</p>
           </div>
-          <div style={{ display:"grid", gridTemplateColumns:"repeat(3,1fr)", gap:16 }}>
+          <div className="project-grid" style={{ display:"grid", gridTemplateColumns:"repeat(3,1fr)", gap:16 }}>
             {PROJECTS.map((p) => {
               const Icon = PROJECT_ICONS[p.name];
               return (
-                <div key={p.name} className="card" style={{ borderRadius:16, overflow:"hidden", cursor:"pointer", background:t.cardBg, border:"1px solid "+t.cardBorder }}
+                <div key={p.name} className="card" style={{ borderRadius:16, overflow:"hidden", cursor:"pointer", background:t.cardBg, border:"1px solid "+t.cardBorder, display:"flex", flexDirection:"column" }}
                   onClick={() => askAboutProject(p)}>
                   {/* Preview area */}
-                  <div style={{ borderRadius:"14px 14px 0 0", overflow:"hidden", height:160, position:"relative", borderBottom:"1px solid #f1f5f9" }}>
-                    {Icon ? <Icon/> : <div style={{ height:160, background:"#0f172a", display:"flex", alignItems:"center", justifyContent:"center" }}><span style={{ fontSize:32, color:"#0d9488" }}>&#10022;</span></div>}
+                  <div style={{ borderRadius:"14px 14px 0 0", overflow:"hidden", aspectRatio:"2 / 1", position:"relative", borderBottom:"1px solid #f1f5f9" }}>
+                    {Icon ? <Icon/> : <div style={{ height:"100%", background:"#0f172a", display:"flex", alignItems:"center", justifyContent:"center" }}><span style={{ fontSize:32, color:"#0d9488" }}>&#10022;</span></div>}
                     <div style={{ position:"absolute", bottom:10, right:10 }}><span className="stat-b">{p.stats}</span></div>
                     {p.live && (
                       <div style={{ position:"absolute", top:10, left:10 }}>
@@ -843,7 +1018,7 @@ export default function Portfolio() {
                     )}
                   </div>
                   {/* Card body */}
-                  <div style={{ padding:"18px 20px" }}>
+                  <div style={{ padding:"18px 20px", flex:1, display:"flex", flexDirection:"column" }}>
                     <div style={{ marginBottom:8 }}>
                       <h3 className="grotesk" style={{ fontSize:15, fontWeight:700, letterSpacing:"-.02em", color:t.text, marginBottom:2 }}>{p.name}</h3>
                       <div style={{ fontSize:11, color:t.textFaint, fontWeight:500 }}>{p.subtitle}</div>
@@ -854,7 +1029,7 @@ export default function Portfolio() {
                       {p.tech.length > 3 && <span style={{ padding:"4px 12px", background:t.tagGrayBg, border:"1px solid "+t.tagGrayBorder, borderRadius:20, fontSize:11.5, color:t.tagGrayColor, fontWeight:500 }}>+{p.tech.length - 3}</span>}
                     </div>
                     {/* Action row */}
-                    <div style={{ borderTop:"1px solid "+t.borderLight, paddingTop:12, display:"flex", justifyContent:"space-between", alignItems:"center" }}>
+                    <div style={{ borderTop:"1px solid "+t.borderLight, paddingTop:12, marginTop:"auto", display:"flex", justifyContent:"space-between", alignItems:"center", flexWrap:"wrap", gap:8 }}>
                       <span style={{ fontSize:12, color:"#0d9488", fontWeight:600, cursor:"pointer" }}
                         onClick={e => { e.stopPropagation(); askAboutProject(p); }}>
                         Ask AI &#10022;
@@ -916,7 +1091,7 @@ export default function Portfolio() {
                 </a>
               </div>
             </div>
-            <div style={{ background:"#0f172a", borderRadius:24, padding:"48px 40px", textAlign:"center", position:"relative", overflow:"hidden" }}>
+            <div className="contact-card" style={{ background:"#0f172a", borderRadius:24, padding:"48px 40px", textAlign:"center", position:"relative", overflow:"hidden" }}>
               <div style={{ position:"absolute", top:"50%", left:"50%", transform:"translate(-50%,-50%)", width:300, height:300, background:"radial-gradient(circle, rgba(13,148,136,.12) 0%, transparent 70%)", pointerEvents:"none" }}/>
               <div style={{ fontSize:36, marginBottom:16, animation:"float2 3s ease-in-out infinite" }}>&#10022;</div>
               <h3 className="grotesk" style={{ fontSize:24, fontWeight:700, letterSpacing:"-.03em", color:"#fff", marginBottom:12 }}>Chat with my AI</h3>
@@ -942,7 +1117,7 @@ export default function Portfolio() {
       </section>
 
       {/* FOOTER */}
-      <footer style={{ borderTop:"1px solid "+t.footerBorder, padding:"24px 40px", display:"flex", alignItems:"center", justifyContent:"space-between", background:t.footerBg, transition:"background .25s" }}>
+      <footer className="footer-row" style={{ borderTop:"1px solid "+t.footerBorder, padding:"24px 40px", display:"flex", alignItems:"center", justifyContent:"space-between", background:t.footerBg, transition:"background .25s" }}>
         <span style={{ fontSize:13, color:t.textFaint, fontFamily:"Space Grotesk,sans-serif", fontWeight:500 }}>2025 Rucha Mene</span>
         <div style={{ display:"flex", gap:20, alignItems:"center" }}>
           <a href="https://www.linkedin.com/in/ruchamene/" target="_blank" rel="noreferrer" style={{ display:"flex", alignItems:"center", gap:5, fontSize:13, color:t.textFaint, textDecoration:"none", transition:"color .15s" }} onMouseEnter={e => e.currentTarget.style.color = "#0a66c2"} onMouseLeave={e => e.currentTarget.style.color = t.textFaint}>
@@ -958,7 +1133,7 @@ export default function Portfolio() {
       </footer>
 
       {/* CHAT */}
-      <div style={{ position:"fixed", bottom:28, right:28, zIndex:500, transition:"all .25s" }}>
+      <div className={"chat-wrap" + (chatOpen ? " open" : "")} style={{ position:"fixed", bottom:28, right:28, zIndex:500, transition:"all .25s" }}>
         {chatOpen && (
           <div className="chat-panel" style={{ width:"min(80vw, 400px)", height:"min(72vh, 640px)", display:"flex", flexDirection:"column", overflow:"hidden", borderRadius:20, boxShadow:dark?"0 24px 70px rgba(0,0,0,.45)":"0 24px 70px rgba(15,23,42,.18)", border:"1px solid "+t.border, background:t.surface }}>
             <div style={{ padding:"14px 18px", borderBottom:"1px solid "+t.borderLight, display:"flex", alignItems:"center", justifyContent:"space-between", flexShrink:0, borderRadius:"20px 20px 0 0", background:t.surface }}>
